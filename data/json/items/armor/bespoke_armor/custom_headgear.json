@@ -57,7 +57,7 @@
     "ammo": "gasfilter_s",
     "use_action": [ "GASMASK_ACTIVATE" ],
     "tick_action": [ "GASMASK" ],
-    "flags": [ "VARSIZE", "SUN_GLASSES", "RAINPROOF", "PADDED" ]
+    "flags": [ "VARSIZE", "SUN_GLASSES", "RAINPROOF", "PADDED", "SLEEP_IGNORE" ]
   },
   {
     "id": "xl_helmet_nomad",
